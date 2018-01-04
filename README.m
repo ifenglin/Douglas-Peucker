@@ -1,0 +1,1 @@
+An implementation of the Douglas–Peucker algorithm, which takes a curve composed of line segments and finds a similar curve with fewer points.
